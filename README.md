@@ -10,7 +10,11 @@ A portfolio app built on Laravel with Vue. I also make use of some JS library li
 
 ## Changelog
 
-**13 June 2020**
+**13-06-2020**
 * Initial commit
+
+**20-06-2020**
+* This project is abandoned
+* Switch into clean SPA version (without Laravel) here https://github.com/azmi6298/vue-portfolio-app
 
 
